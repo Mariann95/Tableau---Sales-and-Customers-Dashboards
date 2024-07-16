@@ -2,8 +2,10 @@ By Mariann Ács-Kovács
 
 #### [LinkedIn profile](https://www.linkedin.com/in/mariann-%C3%A1cs-kov%C3%A1cs-10032b299/)
 
+Link to the dashboards via [Tableau Public](https://public.tableau.com/app/profile/mariann.cs.kov.cs/viz/SalesCustomerDashboardsDynamic_17211335319350/SalesDashboard).
+---
 These interactive Tableau dashboards offer detailed insights into sales performance, trends, and customer behavior, enabling data-driven decision-making.
-
+&nbsp; &nbsp;
 # 𝚂̲𝚊̲𝚕̲𝚎̲𝚜̲ ̲𝙳̲𝚊̲𝚜̲𝚑̲𝚋̲𝚘̲𝚊̲𝚛̲𝚍̲:̲
 
 The sales dashboard presents an overview of sales metrics and trends to analyze year-over-year performance.
@@ -17,12 +19,10 @@ The sales dashboard presents an overview of sales metrics and trends to analyze 
  • 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐅𝐢𝐥𝐭𝐞𝐫𝐢𝐧𝐠: Filters allow users to customize views by year, product category, region, and more.
 
 
+&nbsp;&nbsp;
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/040fcb6a-695b-4e29-a7b6-35b466d8c5e4)
-
-
-
- 
+&nbsp;&nbsp;
 
 
 # 𝙲̲𝚞̲𝚜̲𝚝̲𝚘̲𝚖̲𝚎̲𝚛̲ ̲𝙳̲𝚊̲𝚜̲𝚑̲𝚋̲𝚘̲𝚊̲𝚛̲𝚍̲:̲
@@ -35,6 +35,7 @@ The customer dashboard aims to provide an overview of customer data, trends, and
  
  • 𝐓𝐨𝐩 𝟏𝟎 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐛𝐲 𝐏𝐫𝐨𝐟𝐢𝐭: Top 10 customers, including rank, number of orders, sales, profit, and last order date.
 
+&nbsp;&nbsp;
 
 ![Customer Dashboard](https://github.com/user-attachments/assets/610a4497-d8a1-4126-a5b8-a639aade6b98)
 
